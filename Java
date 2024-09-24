@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt classique",
+      "description": "Un t-shirt confortable en coton 100%, idéal pour un usage quotidien.",
+      "price": 19.99,
+      "image": "tshirt-classique.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chemise en lin",
+      "description": "Chemise légère en lin pour un look décontracté mais élégant.",
+      "price": 29.99,
+      "image": "chemise-lin.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jeans Slim Fit",
+      "description": "Jeans coupe slim pour un ajustement parfait avec un style moderne.",
+      "price": 49.99,
+      "image": "jeans-slim.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Veste en cuir",
+      "description": "Veste en cuir véritable, parfaite pour un look rock ou élégant.",
+      "price": 99.99,
+      "image": "veste-cuir.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sneakers en toile",
+      "description": "Sneakers légères et respirantes pour un confort quotidien.",
+      "price": 39.99,
+      "image": "sneakers-toile.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Montre en acier inoxydable",
+      "description": "Montre élégante avec un bracelet en acier inoxydable.",
+      "price": 89.99,
+      "image": "montre-acier.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sac à dos en cuir",
+      "description": "Sac à dos robuste en cuir pour un style à la fois pratique et élégant.",
+      "price": 79.99,
+      "image": "sac-a-dos-cuir.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chapeau en feutre",
+      "description": "Chapeau en feutre pour une touche chic et intemporelle.",
+      "price": 24.99,
+      "image": "chapeau-feutre.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ceinture en cuir",
+      "description": "Ceinture en cuir de haute qualité avec boucle en métal.",
+      "price": 14.99,
+      "image": "ceinture-cuir.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Lunettes de soleil",
+      "description": "Lunettes de soleil polarisées pour un style et une protection optimale.",
+      "price": 59.99,
+      "image": "lunettes-soleil.jpg"
+    }
+  ]
